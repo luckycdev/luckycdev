@@ -1,8 +1,8 @@
 moved all my gists to https://github.com/luckycdev/bookmarklets/
 ---
-lucky#9919
+<p>Discord: <a href="https://lookup.guru/275273443329441792" target="_blank">@luckyccccc</a></p>
 
-https://discord.gg/nAEtSVbcKx
+<p><a href="https://discord.gg/nAEtSVbcKx" target="_blank">My Discord Server</a></p>
 
 <p><a href="https://github.com/luckycdev" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com?user=luckycdev&theme=dark&hide_border=true&border_radius=25&date_format=n%2Fj%5B%2FY%5D"/></a></p>
 <p><a href="https://github.com/luckycdev" target="_blank"><img src="https://github-widgetbox.vercel.app/api/profile?username=luckycdev&data=followers,repositories,stars,commits"></a></p>
