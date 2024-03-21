@@ -4,7 +4,7 @@ lucky#9919
 
 https://discord.gg/nAEtSVbcKx
 
-<p><a href="https://github.com/luckycdev" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com?user=luckycdev&theme=dark&hide_border=true&border_radius=25&date_format=n%2Fj%5B%2FY%5D&type=png"/></a></p>
+<p><a href="https://github.com/luckycdev" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com?user=luckycdev&theme=dark&hide_border=true&border_radius=25&date_format=n%2Fj%5B%2FY%5D"/></a></p>
 <p><a href="https://github.com/luckycdev" target="_blank"><img src="https://github-widgetbox.vercel.app/api/profile?username=luckycdev&data=followers,repositories,stars,commits"></a></p>
 <p><a href="https://lookup.guru/275273443329441792" target="_blank"><img src="https://lanyard.cnrad.dev/api/275273443329441792"/></a></p>
 <p><a href="https://lookup.guru/275273443329441792" target="_blank"><img src="https://discord.c99.nl/widget/theme-1/275273443329441792.png"/></a></p>
