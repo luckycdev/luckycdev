@@ -1,5 +1,11 @@
-<h2>👋 Hello, I am Vincent!</h2>
-<p><a href="https://discord.gg/AQ4sDF6Mkz" target="_blank">Join my Discord Server</a></p><!--change to Contact Me with new site link-->
+<h3>Currently working on:</h3>
+<ul>
+  <li><p><a href="https://github.com/luckycdev/Zenith" target="_blank">Zenith</a></p></li>
+  <li><p><a href="https://github.com/luckycdev/Zenith-Plugins" target="_blank">Zenith Plugins</a></p></li>
+</ul>
+
+<hr>
+
 <p>
   <a href="https://github.com/luckycdev" target="_blank"><img src="https://api.visitorbadge.io/api/visitors?path=luckycdev&label=views&labelColor=%23000000&countColor=%23ffffff" alt="Profile Visitors"/></a>
   <a href="https://discordlookup.com/user/275273443329441792" target="_blank"><img src="https://api.statusbadges.me/badge/status/275273443329441792"/></a>
