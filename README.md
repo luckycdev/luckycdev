@@ -2,6 +2,7 @@
 <ul>
   <li><p><a href="https://github.com/luckycdev/Zenith" target="_blank">Zenith</a></p></li>
   <li><p><a href="https://github.com/luckycdev/Zenith-Plugins" target="_blank">Zenith Plugins</a></p></li>
+  <li><p><a href="https://github.com/luckycdev/housing" target="_blank">Housing</a></p></li>
 </ul>
 
 <hr>
