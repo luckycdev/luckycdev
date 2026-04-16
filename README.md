@@ -1,5 +1,7 @@
 <h3>Currently working on:</h3>
 <ul>
+  <li><p><a href="https://github.com/luckycdev/archway-oracle" target="_blank">Archway Oracle</a></p></li>
+  <li><p><a href="https://github.com/hadikhancode/Ramsay" target="_blank">Ramsay</a></p></li>
   <li><p><a href="https://github.com/luckycdev/Zenith" target="_blank">Zenith</a></p></li>
   <li><p><a href="https://github.com/luckycdev/Zenith-Plugins" target="_blank">Zenith Plugins</a></p></li>
   <li><p><a href="https://github.com/luckycdev/housing" target="_blank">Housing</a></p></li>
@@ -9,10 +11,10 @@
 
 <p>
   <a href="https://github.com/luckycdev" target="_blank"><img src="https://api.visitorbadge.io/api/visitors?path=luckycdev&label=views&labelColor=%23000000&countColor=%23ffffff" alt="Profile Visitors"/></a>
-  <a href="https://discordlookup.com/user/275273443329441792" target="_blank"><img src="https://api.statusbadges.me/badge/status/275273443329441792"/></a>
-  <a href="https://discordlookup.com/user/275273443329441792" target="_blank"><img src="https://api.statusbadges.me/badge/playing/275273443329441792"/></a>
-  <a href="https://discordlookup.com/user/275273443329441792" target="_blank"><img src="https://api.statusbadges.me/badge/vscode/275273443329441792"/></a>
-  <a href="https://discordlookup.com/user/275273443329441792" target="_blank"><img src="https://api.statusbadges.me/badge/spotify/275273443329441792"/></a>
+  <a href="https://id.rappytv.com/275273443329441792" target="_blank"><img src="https://api.statusbadges.me/badge/status/275273443329441792"/></a>
+  <a href="https://id.rappytv.com/275273443329441792" target="_blank"><img src="https://api.statusbadges.me/badge/playing/275273443329441792"/></a>
+  <a href="https://id.rappytv.com/275273443329441792" target="_blank"><img src="https://api.statusbadges.me/badge/vscode/275273443329441792"/></a>
+  <a href="https://id.rappytv.com/275273443329441792" target="_blank"><img src="https://api.statusbadges.me/badge/spotify/275273443329441792"/></a>
 </p>
 
 <p>
@@ -20,6 +22,6 @@
 </p>
 
 <p>
-  <a href="https://discordlookup.com/user/275273443329441792" target="_blank"><img src="https://lanyard.cnrad.dev/api/275273443329441792"/></a>
-  <a href="https://discordlookup.com/user/275273443329441792" target="_blank"><img src="https://discord.c99.nl/widget/theme-1/275273443329441792.png"/></a>
+  <a href="https://id.rappytv.com/275273443329441792" target="_blank"><img src="https://lanyard.cnrad.dev/api/275273443329441792"/></a>
+  <a href="https://id.rappytv.com/275273443329441792" target="_blank"><img src="https://discord.c99.nl/widget/theme-1/275273443329441792.png"/></a>
 </p>
