@@ -24,4 +24,5 @@
 <p>
   <a href="https://id.rappytv.com/275273443329441792" target="_blank"><img src="https://lanyard.cnrad.dev/api/275273443329441792"/></a>
   <a href="https://id.rappytv.com/275273443329441792" target="_blank"><img src="https://discord.c99.nl/widget/theme-1/275273443329441792.png"/></a>
+  <a href="https://id.rappytv.com/275273443329441792" target="_blank"><img src="https://statusbanner.com/banner/minimal-dark/275273443329441792.svg?animatedAvatar=1&compact=1&showUsername=1"/></a>
 </p>
